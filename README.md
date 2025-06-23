@@ -1,5 +1,5 @@
 # Introduction
-This document presents a curated set of notes taken during my study of MATLAB across 16 structured lectures. It summarizes key concepts, functions, and examples essential for understanding the language and its applications.
+This document presents a curated set of notes taken during my study of MATLAB across 18 structured lectures. It summarizes key concepts, functions, and examples essential for understanding the language and its applications.
 
 Designed to serve as a clear and practical reference, these notes aim to support beginners in building a solid foundation in MATLAB programming.
 
