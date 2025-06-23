@@ -7,6 +7,7 @@ Use this guide for revision, project work, or as a quick reference throughout yo
 
 These notes are based on the course:
 Learn MATLAB in Arabic step by step – DR.Hashim Abdullah Hashim
+
 📎https://youtube.com/playlist?list=PLhx4zaYkEjI_UDzrbLqeaqPisFz1OPnoQ&si=96opHkV-Vq8FyI7I
 
 # MATLAB Study Guide - Lecture Notes
