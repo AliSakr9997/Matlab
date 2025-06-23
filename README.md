@@ -1,7 +1,7 @@
 # Matlab
 
 
-[⚠️ Suspicious Content] # MATLAB Study Guide - Complete Lecture Notes
+# MATLAB Study Guide - Lecture Notes
 
 ## Table of Contents
 1. [Basic Commands and Variables](#basic-commands-and-variables)
